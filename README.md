@@ -7,8 +7,26 @@ Select a MNC (Multi-National Company) of your choice i.e Amazon, Twitter, IMDB e
 Using the following machine learning algorithms (you are free to add others), develop a sentiment analyzer and compare their performance (i.e. Accuracy, precision, and recall) in sentiment analysis.
 
   • Naïve Bayes
+  
   • Support Vector Machine
+  
   • Logistic Regression
   
 Note: you should be able to validate by accepting a new tweet or message and determine its
 sentiment i.e. whether it is positive or negative.
+
+**🔧 Technologies used:**
+
+- Python
+- Naive Bayes classifier
+- Support Vector Machine
+- Logistic Regression
+
+**Library used:**
+
+- Numpy
+- Pandas
+- nltk
+- stemming
+- tf-idf
+- bag-of-words
