@@ -15,6 +15,8 @@ Using the following machine learning algorithms (you are free to add others), de
 Note: you should be able to validate by accepting a new tweet or message and determine its
 sentiment i.e. whether it is positive or negative.
 
+Google Drive link to the notebook containing python🐍 code: https://github.com/Caleb83-Moringa/Term-Project-Developing-a-Sentiment-Analyzer/blob/main/Term_Project_Developing_a_Sentiment_Analyzer.ipynb 
+
 **🔧 Technologies used:**
 
 - Python
